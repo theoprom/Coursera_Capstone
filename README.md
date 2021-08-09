@@ -7,6 +7,8 @@ This project aims to determine the best areas in Berlin for university students 
 
 References and data sources can be found within the notebooks and deliverables.
 
+It is important to note that Foursquare's query results will vary depending on the time of the query, which may affect the project's findings. The results and discussion mentioned in the notebook, report, and presentation are based on when the code was last ran. If the venue data changes, minor changes to the code may be needed and the results will need to be revised.
+
 ### Python Skillset:
 * Webscraping: BeautifulSoup and requests
 * Data Processing: Pandas
